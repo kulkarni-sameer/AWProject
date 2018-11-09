@@ -72,7 +72,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/dependency-cache" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
@@ -82,13 +81,12 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
-      <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-android:3.0.10@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-terrain:3.0.10@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/java/Vuforia.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/java/Vuforia.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-openal-soft-android:3.0.10@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-core:3.0.10@jar" level="project" />
   </component>

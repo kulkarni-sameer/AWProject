@@ -4,7 +4,15 @@
         "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
+        "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
         "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.png",
         "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.png",
+        "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/drawable-mdpi/logo.png"
     }
 ]
