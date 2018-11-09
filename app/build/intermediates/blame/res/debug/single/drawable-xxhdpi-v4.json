@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo.png",
+        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
+        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-xxhdpi/icon.png"
+    }
+]
