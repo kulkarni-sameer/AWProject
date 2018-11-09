@@ -1,25 +1,5 @@
 [
     {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/activities_list.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/activities_list.xml"
-    },
-    {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/camera_overlay_textreco.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/camera_overlay_textreco.xml"
-    },
-    {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
-    },
-    {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/activities_list_text_view.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/activities_list_text_view.xml"
-    },
-    {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/sample_app_menu_layer.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/sample_app_menu_layer.xml"
-    },
-    {
         "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
         "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/layout/sample_app_menu_group_divider.xml"
     },
@@ -28,16 +8,8 @@
         "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/layout/activities_list_text_view.xml"
     },
     {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_divider.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/sample_app_menu_group_divider.xml"
-    },
-    {
         "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
         "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/layout/camera_overlay.xml"
-    },
-    {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/splash_screen.xml"
     },
     {
         "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/layout/camera_overlay_textreco.xml",
@@ -56,28 +28,12 @@
         "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/layout/about_screen.xml"
     },
     {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/sample_app_menu_group.xml"
-    },
-    {
         "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group_radio_button.xml",
         "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/layout/sample_app_menu_group_radio_button.xml"
     },
     {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/camera_overlay.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/camera_overlay.xml"
-    },
-    {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/camera_overlay_udt.xml"
-    },
-    {
         "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml",
         "source": "/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/res/layout/camera_overlay_udt.xml"
-    },
-    {
-        "merged": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/layout/about_screen.xml",
-        "source": "/Users/sameer/vuforia/Vuforia-Samples-Android-Studio/app/src/main/res/layout/about_screen.xml"
     },
     {
         "merged": "/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/res/merged/debug/layout/sample_app_menu_group.xml",

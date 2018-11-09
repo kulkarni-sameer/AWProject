@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-core/3.0.10/8a79aa0e1823fe9885212b4e858ee15b01eaba0a/jme3-core-3.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a79aa0e1823fe9885212b4e858ee15b01eaba0a">
+        <dex dex="/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/pre-dexed/debug/jme3-core-3.0.10_8831b51718d929cb32759632a7eb78e86dd5ad02.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-terrain/3.0.10/9cb18b64dd9552b506300229c6bcee675c0e007a/jme3-terrain-3.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cb18b64dd9552b506300229c6bcee675c0e007a">
+        <dex dex="/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/pre-dexed/debug/jme3-terrain-3.0.10_80a57056ca7929ee094f34a54a9417704fab6ecf.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Desktop/AW/AW2/AWProject/app/src/main/java/Vuforia.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/pre-dexed/debug/Vuforia_92b701e0ba57950ffb7d0aabc603ae042b7c7918.jar" />
+    </item>
+    <item
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-android/3.0.10/7698dbc69e1908107c6a8cf8f0f7b22ff192bac6/jme3-android-3.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7698dbc69e1908107c6a8cf8f0f7b22ff192bac6">
+        <dex dex="/Users/apple/Desktop/AW/AW2/AWProject/app/build/intermediates/pre-dexed/debug/jme3-android-3.0.10_5f08f37dcc0c1968c979c7fbb9dafa92da43ebcf.jar" />
+    </item>
+
+</items>

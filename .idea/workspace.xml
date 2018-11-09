@@ -7,12 +7,56 @@
       <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_sameer_vuforia_Vuforia_Samples_Android_Studio_app_src_main_java_Vuforia_jar_unspecified_jar.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/CloudReco/CR_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/FrameMarkers/FM_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/FrameMarkers/letter_A.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/FrameMarkers/letter_C.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/FrameMarkers/letter_Q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/FrameMarkers/letter_R.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ImageTargets/Buildings.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ImageTargets/Buildings.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ImageTargets/IT_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/MultiTargets/FlakesBox.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/MultiTargets/FlakesBox.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/MultiTargets/MT_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/MultiTargets/TextureBowlAndSpoon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/MultiTargets/TextureWireframe.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ObjectRecognition/CubeWireframe.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ObjectRecognition/OR_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/256.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/256.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/300.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria256.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria256Texture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria500.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria500Texture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria500W.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria500b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria500b.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Algeria500w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/AlgeriaBlack.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/AlgeriaBlack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/AlgeriaRotated.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/AlgeriaTexture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/AlgeriaTextureRotated.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/AlgeriaTexturey.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/HeightMap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/HeightMapColored.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/HeightMapColored1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/HeightMapColoredNewWidth.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/Jasmine.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/blackCircle.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Textures/fb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/UserDefinedTargets/UD_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/UserDefinedTargets/viewfinder_crop_marks_landscape.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/UserDefinedTargets/viewfinder_crop_marks_portrait.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" />
@@ -27,13 +71,166 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudRecoRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/AObject$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/AObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/CObject$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/CObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkerRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/QObject$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/QObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/RObject$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/RObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargetRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargetRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargetRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame$STATUS.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL$TEXTURE_NAME.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$3$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/JMESurfaceView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/AbstractPointCloudGraphGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/Constants.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomAbstractHeightMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomImageBasedHeightMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/LoadingDialogHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/PointCloudJme3GraphGenerator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/RawPointCloudGraphGenerator.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_82ebf70359f6594fcc2296fcdce0b2ea9d30dfc0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_806228c85426b49d89dff4a8e0acbadc3fc242cf.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-android-3.0.10_6320ffd348e37fba4e422916c60f7e10a50c495b.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-core-3.0.10_f9537642671c0c41c6658a0c6e933fd573896741.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-terrain-3.0.10_8cddd8119d8694d144aca73774e8f76247d4ff36.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-armeabi-v7a-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-armeabi-v7a-debug.ap_" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-universal-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-universal-debug.ap_" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-x86-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-x86-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug-unaligned.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug-unaligned.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug-unaligned.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/CloudReco/CR_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/FrameMarkers/FM_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/FrameMarkers/letter_A.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/FrameMarkers/letter_C.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/FrameMarkers/letter_Q.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/FrameMarkers/letter_R.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/ImageTargets/Buildings.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/ImageTargets/Buildings.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/ImageTargets/IT_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/MultiTargets/FlakesBox.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/MultiTargets/FlakesBox.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/MultiTargets/MT_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/MultiTargets/TextureBowlAndSpoon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/MultiTargets/TextureWireframe.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/ObjectRecognition/CubeWireframe.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/ObjectRecognition/OR_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/256.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/256.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/300.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria256.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria256Texture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500Texture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500W.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500b.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500b.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500w.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/AlgeriaBlack.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/AlgeriaBlack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/AlgeriaRotated.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/AlgeriaTexture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/AlgeriaTextureRotated.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/AlgeriaTexturey.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/HeightMap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/HeightMapColored.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/HeightMapColored1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/HeightMapColoredNewWidth.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/Jasmine.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/blackCircle.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Textures/fb.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/UserDefinedTargets/UD_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_landscape.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_portrait.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/AObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/CObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkerRenderer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/QObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/RObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargetRenderer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargetRenderer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargetRenderer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/JMESurfaceView.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/AbstractPointCloudGraphGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/Constants.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomAbstractHeightMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomImageBasedHeightMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/LoadingDialogHandler.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/PointCloudJme3GraphGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/RawPointCloudGraphGenerator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,6 +243,20 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TextReco.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="102" column="27" lean-forward="false" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1755,6 +1966,13 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -1787,6 +2005,52 @@
               <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
             </path>
+            <path>
+              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="samples" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="samples" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="SampleApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="samples" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="samples" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="samples" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1798,6 +2062,7 @@
     <property name="settings.editor.selected.configurable" value="vcs.CVS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="1.5.0" />
+    <property name="device.picker.selection" value="Nexus_5X_API_28" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1835,7 +2100,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
@@ -1961,13 +2226,21 @@
       <option name="presentableId" value="Default" />
       <updated>1541796210222</updated>
     </task>
+    <task id="LOCAL-00001" summary="REmoved the extra files">
+      <created>1541796386806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541796386806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -2000,8 +2273,52 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="REmoved the extra files" />
+    <option name="LAST_COMMIT_MESSAGE" value="REmoved the extra files" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="102" column="27" lean-forward="false" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/256.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/300.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/Algeria.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/Algeria256Texture.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500b.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/Algeria500Texture.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
   </component>
 </project>
