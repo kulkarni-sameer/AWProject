@@ -96,7 +96,7 @@ public class TextReco extends Activity implements SampleApplicationControl,
     
     
     // Called when the activity first starts or the user navigates back to an
-    // activity.
+    // activity.aksal
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
