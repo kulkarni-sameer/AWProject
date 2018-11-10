@@ -419,6 +419,9 @@ public class TextReco extends Activity implements SampleApplicationControl,
                         {
                             break;
                         }
+                        System.out.println("************************************************");
+                        System.out.println(word);
+                        System.out.println("************************************************");
                         tv = new TextView(TextReco.this);
                         tv.setText(word.text);
                         RelativeLayout.LayoutParams txtParams = new RelativeLayout.LayoutParams(
@@ -693,19 +696,81 @@ public class TextReco extends Activity implements SampleApplicationControl,
     
     
     // Functions to load and destroy tracking data.
+//    @Override
+//    public boolean doLoadTrackersData()
+//    {
+//        TrackerManager tm = TrackerManager.getInstance();
+//        TextTracker tt = (TextTracker) tm
+//            .getTracker(TextTracker.getClassType());
+//        WordList wl = tt.getWordList();
+//
+////        return wl.loadWordList("TextReco/Vuforia-English-word.vwl",
+////            STORAGE_TYPE.STORAGE_APPRESOURCE);
+//        wl.addWordsFromFile("TextReco/hello.lst",
+//                STORAGE_TYPE.STORAGE_APPRESOURCE);
+//        System.out.println("===============================");
+//        System.out.println( STORAGE_TYPE.STORAGE_APPRESOURCE);
+//        System.out.println("===============================");
+//
+//        return wl.loadWordList("TextReco/Vuforia-English-word.vwl",
+//                STORAGE_TYPE.STORAGE_APPRESOURCE);
+//    }
+
+//    @Override
+//    public boolean doLoadTrackersData()
+//    {
+//        TrackerManager tm = TrackerManager.getInstance();
+//        TextTracker tt = (TextTracker) tm
+//                .getTracker(TextTracker.getClassType());
+//        WordList wl = tt.getWordList();
+//
+//        boolean loaded = wl.loadWordList("TextReco/Vuforia-English-word.vwl",
+//                STORAGE_TYPE.STORAGE_APPRESOURCE);
+//
+//        System.out.println("++++++++++++++++++++++++++++++");
+//        System.out.println(loaded);
+//        System.out.println("++++++++++++++++++++++++++++++");
+//
+//        //////////////////////////////////
+//        // Add additional words from file
+//        if (loaded) {
+//            wl.addWordsFromFile("TextReco/AdditionalWords.lst",
+//                    STORAGE_TYPE.STORAGE_APPRESOURCE);
+////            wl.setFilterMode(WordList.FILTER_MODE.FILTER_MODE_WHITE_LIST);
+////             wl.addWordU(   creo    );
+//
+//
+//        }
+//        //////////////////////////////////
+//
+//        return loaded;
+//    }
+
+
     @Override
     public boolean doLoadTrackersData()
     {
         TrackerManager tm = TrackerManager.getInstance();
         TextTracker tt = (TextTracker) tm
-            .getTracker(TextTracker.getClassType());
+                .getTracker(TextTracker.getClassType());
         WordList wl = tt.getWordList();
-        
-        return wl.loadWordList("TextReco/Vuforia-English-word.vwl",
-            STORAGE_TYPE.STORAGE_APPRESOURCE);
+
+        boolean loaded = wl.loadWordList("TextReco/Vuforia-English-word.vwl",
+                STORAGE_TYPE.STORAGE_APPRESOURCE);
+
+        //////////////////////////////////
+        // Add additional words from file
+        if (loaded) {
+            wl.addWordsFromFile("TextReco/AdditionalWords.lst",
+                    STORAGE_TYPE.STORAGE_APPRESOURCE);
+        }
+        //////////////////////////////////
+
+        return loaded;
     }
-    
-    
+
+
+
     @Override
     public boolean doUnloadTrackersData()
     {
@@ -723,8 +788,18 @@ public class TextReco extends Activity implements SampleApplicationControl,
         
         return result;
     }
-    
-    
+
+    public int addWordsFromFile1(String path, int storageType)
+    {
+        TrackerManager tm = TrackerManager.getInstance();
+        TextTracker tt = (TextTracker) tm
+                .getTracker(TextTracker.getClassType());
+        WordList wl = tt.getWordList();
+
+        return wl.addWordsFromFile("TextReco/AdditionalWords.lst",
+                STORAGE_TYPE.STORAGE_APPRESOURCE);
+    }
+
     @Override
     public void onQCARUpdate(State state)
     {
