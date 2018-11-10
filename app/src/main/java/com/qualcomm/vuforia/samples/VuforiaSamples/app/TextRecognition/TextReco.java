@@ -698,11 +698,21 @@ public class TextReco extends Activity implements SampleApplicationControl,
     {
         TrackerManager tm = TrackerManager.getInstance();
         TextTracker tt = (TextTracker) tm
-            .getTracker(TextTracker.getClassType());
+                .getTracker(TextTracker.getClassType());
         WordList wl = tt.getWordList();
-        
-        return wl.loadWordList("TextReco/Vuforia-English-word.vwl",
-            STORAGE_TYPE.STORAGE_APPRESOURCE);
+
+        boolean loaded = wl.loadWordList("TextReco/Vuforia-English-word.vwl",
+                STORAGE_TYPE.STORAGE_APPRESOURCE);
+
+        //////////////////////////////////
+        // Add additional words from file
+        if (loaded) {
+            wl.addWordsFromFile("TextReco/AdditionalWords.lst",
+                    STORAGE_TYPE.STORAGE_APPRESOURCE);
+        }
+        //////////////////////////////////
+
+        return loaded;
     }
     
     
