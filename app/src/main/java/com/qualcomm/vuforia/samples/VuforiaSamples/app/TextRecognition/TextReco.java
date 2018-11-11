@@ -1,4 +1,5 @@
-/*===============================================================================
+
+        /*===============================================================================
 Copyright (c) 2012-2014 Qualcomm Connected Experiences, Inc. All Rights Reserved.
 
 Vuforia is a trademark of QUALCOMM Incorporated, registered in the United States 
@@ -424,14 +425,19 @@ try{
             {
 
                 if(words.size() == 1){
+
+
                     Bundle extras = getIntent().getExtras();
                     String level=extras.getString("Selected_Level");
                     if(level.equals("Beginner")){
-                        System.out.println("Selceted Level "+ level);
-                        startActivity(new Intent(getApplicationContext(), BeginnerActivity.class));
+                        Intent intent = new Intent(getApplicationContext(), BeginnerActivity.class);
+                        intent.putExtra("detectedword", words.get(0).text);
+                        startActivity(intent);
+                        // startActivity(new Intent(getApplicationContext(), BeginnerActivity.class));
                     } else if(level.equals("Pro")){
-                        System.out.println("Selceted Level "+ level);
-                        startActivity(new Intent(getApplicationContext(), ProActivity.class));
+                        Intent intent = new Intent(getApplicationContext(), ProActivity.class);
+                        intent.putExtra("detectedword", words.get(0).text);
+                        startActivity(intent);
                     }
 
                 }
