@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/about_text_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/light_gray"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:padding="@dimen/menu_title_padding"
+        android:textSize="@dimen/menu_title" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/detectedWord"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="55dp"
+        />
+    <Button
+        android:id="@+id/translate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textAllCaps="true"
+        android:layout_marginBottom="300dp"
+        android:layout_marginStart="124dp"
+        android:layout_marginLeft="100dp"
+        android:text="translate" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/pronunciation"
+        android:text="pronunciation"
+        android:textAllCaps="true"
+        android:layout_marginBottom="200dp"
+        android:layout_marginLeft="100dp"
+        />
+
+
+
+
+</RelativeLayout>
