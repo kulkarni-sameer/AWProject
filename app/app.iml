@@ -87,10 +87,10 @@
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-android:3.0.10@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/apple/Desktop/AW/AW2/AWProject/nov11/AWProject/app/src/main/java/Vuforia.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-terrain:3.0.10@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/sameer/Downloads/AWProject-master/app/src/main/java/Vuforia.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/apple/Desktop/AW/AW2/AWProject/nov11/AWProject/app/src/main/java/google-api-translate-java-0.97.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-openal-soft-android:3.0.10@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_aars__:/Users/sameer/Downloads/AWProject-master/app/src/main/java/google-api-translate-java-0.97.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-core:3.0.10@jar" level="project" />
   </component>
 </module>

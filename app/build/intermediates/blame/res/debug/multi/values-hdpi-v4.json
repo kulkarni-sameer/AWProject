@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/sameer/Downloads/AWProject-master/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/Users/apple/Desktop/AW/AW2/AWProject/nov11/AWProject/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/sameer/Downloads/AWProject-master/app/src/main/res/values-hdpi/dimens.xml",
+                    "file": "/Users/apple/Desktop/AW/AW2/AWProject/nov11/AWProject/app/src/main/res/values-hdpi/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 149
                 },
                 "from": {
-                    "file": "/Users/sameer/Downloads/AWProject-master/app/src/main/res/values-hdpi/dimens.xml",
+                    "file": "/Users/apple/Desktop/AW/AW2/AWProject/nov11/AWProject/app/src/main/res/values-hdpi/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -427,8 +427,10 @@ try{
                     Bundle extras = getIntent().getExtras();
                     String level=extras.getString("Selected_Level");
                     if(level.equals("Beginner")){
+                        System.out.println("Selceted Level "+ level);
                         startActivity(new Intent(getApplicationContext(), BeginnerActivity.class));
                     } else if(level.equals("Pro")){
+                        System.out.println("Selceted Level "+ level);
                         startActivity(new Intent(getApplicationContext(), ProActivity.class));
                     }
 
