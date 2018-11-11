@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sameer/Downloads/AWProject-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/logo.png",
+        "source": "/Users/sameer/Downloads/AWProject-master/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/sameer/Downloads/AWProject-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/Users/sameer/Downloads/AWProject-master/app/src/main/res/drawable-xhdpi/icon.png"
+    }
+]
