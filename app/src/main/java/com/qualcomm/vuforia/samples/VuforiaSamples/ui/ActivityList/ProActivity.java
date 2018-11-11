@@ -45,7 +45,8 @@ public class ProActivity extends Activity implements View.OnClickListener
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Pro level Recognition");
         mDetectedWord=(TextView) findViewById(R.id.detectedWord) ;
-        mDetectedWord.setText("The Detected Word is : " +"PRO");
+        String detectedword= getIntent().getStringExtra("detectedword");
+        mDetectedWord.setText("The Detected Word is : " +detectedword);
         System.out.println("In on create pro activity");
     }
 
