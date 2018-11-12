@@ -12,6 +12,8 @@ import android.app.Activity;
 import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.speech.tts.TextToSpeech;
+import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
@@ -23,6 +25,8 @@ import android.widget.Toast;
 
 import com.qualcomm.vuforia.samples.VuforiaSamples.R;
 
+import java.util.Locale;
+
 
 // This activity starts activities which demonstrate the Vuforia features
 public class BeginnerActivity extends Activity implements View.OnClickListener
@@ -30,9 +34,11 @@ public class BeginnerActivity extends Activity implements View.OnClickListener
 
     //private String mActivities[] = { "Beginner Words Recognition!!!"};
     private Button mTranslateButton;
-
+    private Button mPronunciateButton;
     private TextView mAboutTextTitle;
     private TextView mDetectedWord;
+    private TextToSpeech mTTS; //for TextToSpeech Service
+    private String detected_word;
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
@@ -41,47 +47,67 @@ public class BeginnerActivity extends Activity implements View.OnClickListener
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
-
         setContentView(R.layout.beginner_activity);
-        //setListAdapter(adapter);
         mTranslateButton=(Button) findViewById(R.id.translate) ;
-        //mTranslateButton.setOnClickListener();
         mTranslateButton.setOnClickListener(this);
+        mPronunciateButton=(Button) findViewById(R.id.pronunciation);
+        mPronunciateButton.setOnClickListener(this);
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Beginner level Recognition");
         mDetectedWord=(TextView) findViewById(R.id.detectedWord) ;
-        String detectedword= getIntent().getStringExtra("detectedword");
-        mDetectedWord.setText("The Detected Word is : " +detectedword);
+        detected_word= getIntent().getStringExtra("detectedword");
+        mDetectedWord.setText("The Detected Word is : " +detected_word);
+        mTTS=new TextToSpeech(this, new TextToSpeech.OnInitListener() { //TextToSpeech Class
+            @Override
+            public void onInit(int i) {
+                    if(i==TextToSpeech.SUCCESS){   //if inistializatio is successful
+                        int lang=mTTS.setLanguage(Locale.US);  //Language setting up
+                        if(lang==TextToSpeech.LANG_MISSING_DATA
+                        || lang==TextToSpeech.LANG_NOT_SUPPORTED){
+                            Log.e("Text_Speech","Language Not Supported");
+                        }
+                        else{
+
+                            }
+                    } else{
+                        Log.e("Text_Speech","Initialization Failed");
+                    }
+            }
+        });
         System.out.println("In on create Beginner Activity");
     }
 
 
     @Override
     public void onClick(View view) {
-        System.out.println("In on Click beginneractivity.java");
-        System.out.println(mTranslateButton.getText());
-       // System.out.println("ON CLICK BUTTON...."+view.getId());
-        Toast.makeText(BeginnerActivity.this, "THis is my message", Toast.LENGTH_SHORT).show();
-    }
-    /*
-    @Override
-    public void onListItemClick(ListView l, View v, int position, long id)
-    {
-
-        Intent intent = new Intent(this, AboutScreen.class);
-       // intent.putExtra("ABOUT_TEXT_TITLE", mActivities[position]);
-
-        switch (position)
+        switch (view.getId())
         {
-            case 0:
-                intent.putExtra("ACTIVITY_TO_LAUNCH",
-                        "app.TextRecognition.TextReco");
-                // intent.putExtra("ABOUT_TEXT", "TextReco/TR_about.html");
+            case R.id.pronunciation:
+                mTranslateButton.setVisibility(View.GONE);
+               // startARActivity();
+                speak();
                 break;
         }
-        System.out.println("In on List ACTIVITY LAUNCHER");
+        System.out.println("In on Click beginner activity.java");
 
-        startActivity(intent);
+       // Toast.makeText(BeginnerActivity.this, "THis is my message", Toast.LENGTH_SHORT).show();
+    }
+    public void speak(){
+       // String text=mDetectedWord.getText().toString();
+       //mTTS.speak(text,TextToSpeech.QUEUE_FLUSH,null);
+        System.out.println("Only the word " + detected_word);
+        //speak the word detected
+       mTTS.speak(detected_word,TextToSpeech.QUEUE_FLUSH,null );
+        //QueueFlush : current text gets cancelled to speak the new one
 
-    } */
+    }
+
+    @Override
+    protected void onDestroy() {
+        if(mTTS!=null){
+            mTTS.stop();
+            mTTS.shutdown();}
+        super.onDestroy();
+
+    }
 }
