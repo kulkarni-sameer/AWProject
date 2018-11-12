@@ -32,7 +32,7 @@ import java.util.Locale;
 public class BeginnerActivity extends Activity implements View.OnClickListener
 {
 
-    //private String mActivities[] = { "Beginner Words Recognition!!!"};
+    //private String mActivities[] = { "Beginner Words Recognition!!!"}
     private Button mTranslateButton;
     private Button mPronunciateButton;
     private TextView mAboutTextTitle;
