@@ -18,6 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/detectedWord"
+        android:text="The Detected Word"
         android:layout_marginTop="150dp"
         android:layout_marginLeft="55dp"
         />
@@ -36,14 +37,22 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:id="@+id/pronunciation"
-        android:text="pronunciation"
+        android:id="@+id/partOfSpeeches"
+        android:text="part of speech"
         android:textAllCaps="true"
         android:layout_marginBottom="200dp"
         android:layout_marginLeft="100dp"
         />
-
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/makeSentence"
+        android:text="make sentences"
+        android:textAllCaps="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="100dp"
+        />
 
 
 </RelativeLayout>
