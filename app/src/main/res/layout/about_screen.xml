@@ -28,7 +28,15 @@
         android:layout_marginTop="33dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/userNameText" />
+        android:hint="@string/userNameText"
+        />
+    <TextView
+        android:id="@+id/LevelExpertise"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/RadioGroup"
+        android:layout_centerInParent="true"
+        android:text="@string/levelExpertiseText"/>
 
     <Button
         android:id="@+id/button_submit"
@@ -58,7 +66,7 @@
             android:id="@+id/Pro"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="34dp"
+            android:layout_marginTop="3dp"
             android:text="@string/radiobuttonPro"
             />
 
