@@ -3,7 +3,6 @@
 
     <string name="app_name">Augmented Reality App</string>
     <string name="app_description">AR Spanish Translation Application</string>
-    
     <string name="button_start">Start</string>
     <string name="button_submit">SUBMIT</string>
     <string name="radiobuttonBeginner">Beginner</string>
@@ -11,7 +10,8 @@
     <string name="activities_list_title_string">Vuforia Samples</string>
     <string name="activities_list_empty">No activities</string>
     <string name="userDetailsLabel">User Details...</string>
-    <string name="userNameText">User Name...</string>
+    <string name="userNameText">Enter User Name</string>
+    <string name="levelExpertiseText">Enter Your Level of Expertise</string>
     <string name="button_OK">OK</string>
     
     <string name="UPDATE_ERROR_AUTHORIZATION_FAILED_TITLE">Authorization Error</string>
