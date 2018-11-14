@@ -102,73 +102,37 @@
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.BeginnerActivity"
+            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.SpanishActivity"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
             android:noHistory="true"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.ProActivity"
+            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.ItalianActivity"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
             android:noHistory="true"
             android:screenOrientation="portrait" >
         </activity>
         <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.ImageTargets.ImageTargets"
+            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.PortugueseActivity"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.FrenchActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.GermanActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.TextRecognition.TextReco"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.CylinderTargets.CylinderTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.FrameMarkers.FrameMarkers"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.VirtualButtons.VirtualButtons"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.UserDefinedTargets.UserDefinedTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.MultiTargets.MultiTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.CloudRecognition.CloudReco"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.ObjectRecognition.ObjectTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:launchMode="singleTask"
-            android:theme="@style/SampleAppsTheme" >
-        </activity>
-        <activity
-            android:name="com.qualcomm.vuforia.samples.VuforiaSamples.app.jme.jme"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
             android:launchMode="singleTask"
             android:theme="@style/SampleAppsTheme" >

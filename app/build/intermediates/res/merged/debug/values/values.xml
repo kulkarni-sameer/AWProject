@@ -56,6 +56,7 @@
     <string name="button_start">Start</string>
     <string name="button_submit">SUBMIT</string>
     <string name="content_desc_camera_button">Camera Button</string>
+    <string name="levelExpertiseText">Preferred Language</string>
     <string name="menu_back">Vuforia Samples</string>
     <string name="menu_button_blue">Blue</string>
     <string name="menu_button_green">Green</string>
@@ -74,13 +75,16 @@
     <string name="menu_flash_error_off">Unable to turn off flash</string>
     <string name="menu_flash_error_on">Unable to turn on flash</string>
     <string name="overlay_build_target_help">Hold the device parallel to the target</string>
-    <string name="radiobuttonBeginner">Beginner</string>
-    <string name="radiobuttonPro">Pro</string>
+    <string name="radiobuttonFrench">French</string>
+    <string name="radiobuttonGerman">German</string>
+    <string name="radiobuttonItalian">Italian</string>
+    <string name="radiobuttonPortuguese">Portuguese</string>
+    <string name="radiobuttonSpanish">Spanish</string>
     <string name="splash_screen_description">Vuforia Splash</string>
     <string name="target_quality_error_desc">The image has very little detail, please try another.</string>
     <string name="target_quality_error_title">Low Quality Image</string>
     <string name="userDetailsLabel">User Details...</string>
-    <string name="userNameText">User Name...</string>
+    <string name="userNameText">Enter User Name</string>
     <style name="SampleAppsTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
         <item name="android:windowNoTitle">true</item>
     </style>

@@ -36,7 +36,6 @@ import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
@@ -61,8 +60,11 @@ import com.qualcomm.vuforia.samples.SampleApplication.utils.SampleApplicationGLV
 import com.qualcomm.vuforia.samples.SampleApplication.utils.SampleUtils;
 import com.qualcomm.vuforia.samples.VuforiaSamples.R;
 import com.qualcomm.vuforia.samples.VuforiaSamples.app.TextRecognition.TextRecoRenderer.WordDesc;
-import com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.BeginnerActivity;
-import com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.ProActivity;
+import com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.FrenchActivity;
+import com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.ItalianActivity;
+import com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.PortugueseActivity;
+import com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.SpanishActivity;
+import com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList.GermanActivity;
 import com.qualcomm.vuforia.samples.VuforiaSamples.ui.SampleAppMenu.SampleAppMenu;
 import com.qualcomm.vuforia.samples.VuforiaSamples.ui.SampleAppMenu.SampleAppMenuGroup;
 import com.qualcomm.vuforia.samples.VuforiaSamples.ui.SampleAppMenu.SampleAppMenuInterface;
@@ -429,13 +431,25 @@ try{
 
                     Bundle extras = getIntent().getExtras();
                     String level=extras.getString("Selected_Level");
-                    if(level.equals("Beginner")){
-                        Intent intent = new Intent(getApplicationContext(), BeginnerActivity.class);
+                    if(level.equals("Spanish")){
+                        Intent intent = new Intent(getApplicationContext(), SpanishActivity.class);
                         intent.putExtra("detectedword", words.get(0).text);
                         startActivity(intent);
-                        // startActivity(new Intent(getApplicationContext(), BeginnerActivity.class));
-                    } else if(level.equals("Pro")){
-                        Intent intent = new Intent(getApplicationContext(), ProActivity.class);
+                        // startActivity(new Intent(getApplicationContext(), SpanishActivity.class));
+                    } else if(level.equals("Italian")){
+                        Intent intent = new Intent(getApplicationContext(), ItalianActivity.class);
+                        intent.putExtra("detectedword", words.get(0).text);
+                        startActivity(intent);
+                    } else if(level.equals("Portuguese")){
+                        Intent intent = new Intent(getApplicationContext(), PortugueseActivity.class);
+                        intent.putExtra("detectedword", words.get(0).text);
+                        startActivity(intent);
+                    } else if(level.equals("French")){
+                        Intent intent = new Intent(getApplicationContext(), FrenchActivity.class);
+                        intent.putExtra("detectedword", words.get(0).text);
+                        startActivity(intent);
+                    } else if(level.equals("German")){
+                        Intent intent = new Intent(getApplicationContext(), GermanActivity.class);
                         intent.putExtra("detectedword", words.get(0).text);
                         startActivity(intent);
                     }

@@ -56,18 +56,38 @@
         >
 
         <RadioButton
-            android:id="@+id/Beginner"
+            android:id="@+id/Spanish"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/radiobuttonBeginner"
+            android:text="@string/radiobuttonSpanish"
             />
 
         <RadioButton
-            android:id="@+id/Pro"
+            android:id="@+id/Italian"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="3dp"
-            android:text="@string/radiobuttonPro"
+            android:text="@string/radiobuttonItalian"
+            />
+        <RadioButton
+            android:id="@+id/Portuguese"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radiobuttonPortuguese"
+            />
+
+        <RadioButton
+            android:id="@+id/French"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="@string/radiobuttonFrench"
+            />
+        <RadioButton
+            android:id="@+id/German"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radiobuttonGerman"
             />
 
 

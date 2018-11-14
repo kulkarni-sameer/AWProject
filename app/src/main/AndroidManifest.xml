@@ -115,7 +115,7 @@
         </activity>
 
         <activity
-            android:name=".ui.ActivityList.BeginnerActivity"
+            android:name=".ui.ActivityList.SpanishActivity"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
             android:screenOrientation="portrait"
             android:noHistory="true"
@@ -123,90 +123,42 @@
         </activity>
 
         <activity
-            android:name=".ui.ActivityList.ProActivity"
+            android:name=".ui.ActivityList.ItalianActivity"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
             android:screenOrientation="portrait"
             android:noHistory="true"
             >
         </activity>
-         
+
         <activity
-            android:name=".app.ImageTargets.ImageTargets"
+            android:name=".ui.ActivityList.PortugueseActivity"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:noHistory="true"
             >
         </activity>
-        
+
+        <activity
+            android:name=".ui.ActivityList.FrenchActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:screenOrientation="portrait"
+            android:noHistory="true"
+            >
+        </activity>
+
+        <activity
+            android:name=".ui.ActivityList.GermanActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
+            android:screenOrientation="portrait"
+            android:noHistory="true"
+            >
+        </activity>
+
         <activity
             android:name=".app.TextRecognition.TextReco"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
         	android:theme="@style/SampleAppsTheme"
   	        android:launchMode="singleTask"
-            >
-        </activity>
-
-        <activity
-            android:name=".app.CylinderTargets.CylinderTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
-            >
-        </activity>
-        
-        <activity
-            android:name=".app.FrameMarkers.FrameMarkers"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
-            >
-        </activity>
-        
-        <activity
-            android:name=".app.VirtualButtons.VirtualButtons"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
-            >
-        </activity>
-        
-        <activity
-            android:name=".app.UserDefinedTargets.UserDefinedTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
-            >
-        </activity>
-                
-        <activity
-            android:name=".app.MultiTargets.MultiTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
-            >
-        </activity>
-        
-        <activity
-            android:name=".app.CloudRecognition.CloudReco"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
-            >
-        </activity>
-         
-        <activity
-            android:name=".app.ObjectRecognition.ObjectTargets"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-        	android:theme="@style/SampleAppsTheme"
- 	        android:launchMode="singleTask"
-            >
-        </activity>
-
-        <activity
-            android:name=".app.jme.jme"
-            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:theme="@style/SampleAppsTheme"
-            android:launchMode="singleTask"
             >
         </activity>
          

@@ -28,7 +28,15 @@
         android:layout_marginTop="33dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/userNameText" />
+        android:hint="@string/userNameText"
+        />
+    <TextView
+        android:id="@+id/LevelExpertise"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/RadioGroup"
+        android:layout_centerInParent="true"
+        android:text="@string/levelExpertiseText"/>
 
     <Button
         android:id="@+id/button_submit"
@@ -48,18 +56,38 @@
         >
 
         <RadioButton
-            android:id="@+id/Beginner"
+            android:id="@+id/Spanish"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/radiobuttonBeginner"
+            android:text="@string/radiobuttonSpanish"
             />
 
         <RadioButton
-            android:id="@+id/Pro"
+            android:id="@+id/Italian"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="34dp"
-            android:text="@string/radiobuttonPro"
+            android:layout_marginTop="3dp"
+            android:text="@string/radiobuttonItalian"
+            />
+        <RadioButton
+            android:id="@+id/Portuguese"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radiobuttonPortuguese"
+            />
+
+        <RadioButton
+            android:id="@+id/French"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:text="@string/radiobuttonFrench"
+            />
+        <RadioButton
+            android:id="@+id/German"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radiobuttonGerman"
             />
 
 
