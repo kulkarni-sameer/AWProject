@@ -32,7 +32,7 @@ public class GermanActivity extends Activity implements View.OnClickListener
     private Button mPronunciateButton;
     private TextView mAboutTextTitle;
     private TextView mDetectedWord;
-    private TextToSpeech mTTS; //for TextToSpeech Service
+    private TextToSpeech mTTS; //for TextToSpech Service
     private String detected_word;
     @Override
     public void onCreate(Bundle savedInstanceState)
