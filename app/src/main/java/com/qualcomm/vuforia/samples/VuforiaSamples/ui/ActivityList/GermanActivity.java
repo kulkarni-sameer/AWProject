@@ -36,7 +36,7 @@ import com.qualcomm.vuforia.samples.VuforiaSamples.R;
 import java.util.Locale;
 
 
-// This activity starts activities which demonstrate the Vuforia features
+// This activity starts activities which demnstrate the Vuforia features
 public class GermanActivity extends Activity implements View.OnClickListener
 {
 
