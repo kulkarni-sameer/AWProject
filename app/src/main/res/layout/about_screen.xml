@@ -30,8 +30,8 @@
         android:layout_marginBottom="26dp"
         android:background="@drawable/button_background"
         android:ems="10"
+        android:gravity="center"
         android:textColor="@color/black"
-        android:paddingLeft="20dp"
         android:hint="@string/userNameText"
         android:inputType="textPersonName" />
     <TextView
@@ -73,7 +73,7 @@
             android:layout_width="200dp"
             android:layout_height="40dp"
             android:background="@drawable/button_background"
-            android:buttonTint="@color/white"
+            android:buttonTint="@color/black"
             android:text="@string/radiobuttonSpanish"
             android:checked="true"
             android:textColor="@color/black" />
@@ -85,7 +85,7 @@
             android:layout_height="40dp"
             android:layout_marginTop="5dp"
             android:background="@drawable/button_background"
-            android:buttonTint="@color/white"
+            android:buttonTint="@color/black"
             android:text="@string/radiobuttonItalian"
             android:textColor="@color/black"
             />
@@ -96,7 +96,7 @@
             android:layout_height="40dp"
             android:layout_marginTop="5dp"
             android:background="@drawable/button_background"
-            android:buttonTint="@color/white"
+            android:buttonTint="@color/black"
             android:text="@string/radiobuttonPortuguese"
             android:textColor="@color/black" />
 
@@ -106,7 +106,7 @@
             android:layout_height="40dp"
             android:layout_marginTop="5dp"
             android:background="@drawable/button_background"
-            android:buttonTint="@color/white"
+            android:buttonTint="@color/black"
             android:text="@string/radiobuttonFrench"
             android:textColor="@color/black" />
 
@@ -116,7 +116,7 @@
             android:layout_height="40dp"
             android:layout_marginTop="5dp"
             android:background="@drawable/button_background"
-            android:buttonTint="@color/white"
+            android:buttonTint="@color/black"
             android:text="@string/radiobuttonGerman"
             android:textColor="@color/black"
 
