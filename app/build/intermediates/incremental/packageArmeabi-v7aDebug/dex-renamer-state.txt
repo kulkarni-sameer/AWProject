@@ -1,0 +1,7 @@
+#Thu Nov 22 20:35:28 MST 2018
+base.0=/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_330daa0bf561557d330adf4f163be7ed1b59d508
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d8d5149135dcbc53509746350eeb5939c0972ffd/classes.dex
+base.1=/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d8d5149135dcbc53509746350eeb5939c0972ffd
+file.0=/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_330daa0bf561557d330adf4f163be7ed1b59d508/classes.dex

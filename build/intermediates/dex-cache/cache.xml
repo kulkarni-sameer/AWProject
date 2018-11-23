@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sameer/Downloads/AWProject-UIUpdate/app/src/main/java/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_89093f8b956faa64124997ea51f716e6ac7c2a17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d8d5149135dcbc53509746350eeb5939c0972ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae68504cb0e53ac124acd7c886a2560b9abfd429">
+        <dex dex="/Users/sameer/Downloads/AWProject-UIUpdate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_330daa0bf561557d330adf4f163be7ed1b59d508/classes.dex" />
+    </item>
+
+</items>
