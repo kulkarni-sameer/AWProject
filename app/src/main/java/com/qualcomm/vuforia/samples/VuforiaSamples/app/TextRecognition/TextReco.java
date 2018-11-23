@@ -412,26 +412,32 @@ public class TextReco extends Activity implements SampleApplicationControl,
 
                     Bundle extras = getIntent().getExtras();
                     String level=extras.getString("Selected_Level");
+                    String username=extras.getString("Username");
                     if(level.equals("Spanish")){
                         Intent intent = new Intent(getApplicationContext(), SpanishActivity.class);
                         intent.putExtra("detectedword", words.get(0).text);
+                        intent.putExtra("username",username);
                         startActivity(intent);
                         // startActivity(new Intent(getApplicationContext(), SpanishActivity.class));
                     } else if(level.equals("Italian")){
                         Intent intent = new Intent(getApplicationContext(), ItalianActivity.class);
                         intent.putExtra("detectedword", words.get(0).text);
+                        intent.putExtra("username",username);
                         startActivity(intent);
                     } else if(level.equals("Portuguese")){
                         Intent intent = new Intent(getApplicationContext(), PortugueseActivity.class);
                         intent.putExtra("detectedword", words.get(0).text);
+                        intent.putExtra("username",username);
                         startActivity(intent);
                     } else if(level.equals("French")){
                         Intent intent = new Intent(getApplicationContext(), FrenchActivity.class);
                         intent.putExtra("detectedword", words.get(0).text);
+                        intent.putExtra("username",username);
                         startActivity(intent);
                     } else if(level.equals("German")){
                         Intent intent = new Intent(getApplicationContext(), GermanActivity.class);
                         intent.putExtra("detectedword", words.get(0).text);
+                        intent.putExtra("username",username);
                         startActivity(intent);
                     }
 

@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/RadioGroup"
         android:layout_centerInParent="true"
-        android:textSize="@dimen/menu_title"
+        android:textSize="18dp"
         android:text="Select Your Preferred Language"
 
         android:textColor="@color/black"/>
@@ -73,6 +73,7 @@
             android:background="@drawable/button_background"
             android:buttonTint="@color/white"
             android:text="@string/radiobuttonSpanish"
+            android:checked="true"
             android:textColor="@color/black" />
             />
 

@@ -11,6 +11,7 @@ package com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList;
 import android.app.Activity;
 import android.app.ListActivity;
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.os.Handler;
 import android.speech.tts.TextToSpeech;
@@ -41,6 +42,7 @@ public class ItalianActivity extends Activity implements View.OnClickListener
     private Button mTranslateButton;
     private Button mPronunciateButton;
     private TextView mAboutTextTitle;
+    private TextView mWelcomeTitle;
     private TextView mDetectedWord;
     private String translated_word;
     private TextToSpeech mTTS; //for TextToSpeech Service
@@ -61,9 +63,17 @@ public class ItalianActivity extends Activity implements View.OnClickListener
         mPronunciateButton.setOnClickListener(this);
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Italian Translation");
+        Bundle extras = getIntent().getExtras();
+        String username = extras.getString("username");
+        mWelcomeTitle = (TextView) findViewById(R.id.welcomeText);
+        mWelcomeTitle.setText("Benvenuto, " +username +"!");
         mDetectedWord=(TextView) findViewById(R.id.detectedWord) ;
         detected_word= getIntent().getStringExtra("detectedword");
-       // mDetectedWord.setText("The Detected Word is : " +detected_word);
+
+
+
+
+
 
         mTTS=new TextToSpeech(this, new TextToSpeech.OnInitListener() { //TextToSpeech Class
             @Override
@@ -91,7 +101,7 @@ public class ItalianActivity extends Activity implements View.OnClickListener
         switch (view.getId())
         {
             case R.id.pronunciation:
-               // mTranslateButton.setVisibility(View.GONE);
+                // mTranslateButton.setVisibility(View.GONE);
                 // startARActivity();
                 speak();
                 break;
@@ -116,11 +126,12 @@ public class ItalianActivity extends Activity implements View.OnClickListener
                             public void run() {
                                 //  if (textView != null) {
                                 //   textView.setText(translation.getTranslatedText());
-                               // Toast.makeText(getApplicationContext(), translation.getTranslatedText(),
-                                      //  Toast.LENGTH_LONG).show();
+                                // Toast.makeText(getApplicationContext(), translation.getTranslatedText(),
+                                //       Toast.LENGTH_LONG).show();
                                 translated_word = translation.getTranslatedText();
-                                mDetectedWord.setText("La parola tradotta è : " +translated_word);
                                 System.out.println(translation.getTranslatedText());
+                                mDetectedWord.setText("\n" +
+                                        "La parola tradotta è: " +translated_word);
                                 // }
                             }
                         });

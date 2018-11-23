@@ -42,6 +42,7 @@ public class SpanishActivity extends Activity implements View.OnClickListener
     private Button mTranslateButton;
     private Button mPronunciateButton;
     private TextView mAboutTextTitle;
+    private TextView mWelcomeTitle;
     private TextView mDetectedWord;
     private String translated_word;
     private TextToSpeech mTTS; //for TextToSpeech Service
@@ -61,9 +62,14 @@ public class SpanishActivity extends Activity implements View.OnClickListener
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
-        mAboutTextTitle.setText("Portugese Translation");
+        mAboutTextTitle.setText("Spanish Translation");
+        Bundle extras = getIntent().getExtras();
+        String username = extras.getString("username");
+        mWelcomeTitle = (TextView) findViewById(R.id.welcomeText);
+        mWelcomeTitle.setText("Bienvenido, " +username +"!");
         mDetectedWord=(TextView) findViewById(R.id.detectedWord) ;
         detected_word= getIntent().getStringExtra("detectedword");
+
 
 
 

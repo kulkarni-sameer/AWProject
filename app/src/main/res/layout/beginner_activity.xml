@@ -16,15 +16,27 @@
         android:padding="@dimen/menu_title_padding"
         android:textSize="@dimen/menu_title" />
 
+    <TextView
+        android:id="@+id/welcomeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="70dp"
+        android:fontFamily="Roboto-Medium italic"
+        android:textStyle="normal"
+        android:padding="10dp"
+        android:textSize="25sp" />
+
 
     <Button
         android:id="@+id/translate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="220dp"
         android:background="@drawable/button_background"
         android:text="Translate"
+        android:textAllCaps="true"
         android:textColor="@color/black" />
     <TextView
         android:layout_width="wrap_content"
@@ -43,7 +55,7 @@
         android:layout_height="wrap_content"
 
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="290dp"
+        android:layout_marginTop="340dp"
         android:text="Pronounce"
         android:textAllCaps="true"
         android:textColor="@color/black"

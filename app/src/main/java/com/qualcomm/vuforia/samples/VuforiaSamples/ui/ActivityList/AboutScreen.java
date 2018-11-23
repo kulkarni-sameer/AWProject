@@ -93,6 +93,8 @@ public class AboutScreen extends Activity implements OnClickListener
         mselectedRadioButton=(RadioButton) findViewById(radioID);
         System.out.println("ID...."+radioID);
         System.out.println("Selected Radio Button : ....."+mselectedRadioButton.getText());
+        String content = mUserNameText.getText().toString();
+        i.putExtra("Username",content);
         i.putExtra("Selected_Level",mselectedRadioButton.getText().toString());
         //i.putExtra("SelectedRadioButton", "mSelected");
         System.out.println("Goes to Text Reco.java");
@@ -122,12 +124,12 @@ public class AboutScreen extends Activity implements OnClickListener
         }
     }
     
-    private class AboutWebViewClient extends WebViewClient {
-        @Override
-        public boolean shouldOverrideUrlLoading(WebView view, String url) {
-            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
-            startActivity(intent);
-            return true;
-        }
-    }
+//    private class AboutWebViewClient extends WebViewClient {
+//        @Override
+//        public boolean shouldOverrideUrlLoading(WebView view, String url) {
+//            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+//            startActivity(intent);
+//            return true;
+//        }
+//    }
 }
