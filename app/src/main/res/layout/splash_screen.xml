@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:orientation="vertical"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+    android:gravity="center"
         >
 
     <ImageView 
@@ -11,8 +12,30 @@
         android:layout_height="match_parent"
         android:scaleType="fitXY"
         android:src="@drawable/vuforia_splash"
-        android:contentDescription="@string/splash_screen_description"
         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="User Adaptive Ogmented"
+        android:textColor="#000000"
+        android:includeFontPadding="false"
+        android:fontFamily="Roboto-Black italic"
+        android:textStyle="normal"
+        android:textSize="@dimen/menu_title" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="100dp"
+        android:gravity="center"
+        android:text="Group 9"
+        android:textColor="#000000"
+        android:includeFontPadding="false"
+        android:fontFamily="Roboto-Black italic"
+        android:textStyle="normal"
+        android:textSize="@dimen/menu_title" />
 
 
 
