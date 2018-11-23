@@ -59,8 +59,10 @@ public class SpanishActivity extends Activity implements View.OnClickListener
         setContentView(R.layout.beginner_activity);
         mTranslateButton=(Button) findViewById(R.id.translate) ;
         mTranslateButton.setOnClickListener(this);
+        mTranslateButton.setText("Traducir");
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
+        mPronunciateButton.setText("Pronunciar");
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Spanish Translation");
         Bundle extras = getIntent().getExtras();

@@ -59,8 +59,10 @@ public class FrenchActivity extends Activity implements View.OnClickListener
         setContentView(R.layout.beginner_activity);
         mTranslateButton=(Button) findViewById(R.id.translate) ;
         mTranslateButton.setOnClickListener(this);
+        mTranslateButton.setText("Traduire");
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
+        mPronunciateButton.setText("Prononcer");
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("French Translation");
         Bundle extras = getIntent().getExtras();

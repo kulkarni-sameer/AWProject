@@ -35,7 +35,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="220dp"
         android:background="@drawable/button_background"
-        android:text="Translate"
         android:textAllCaps="true"
         android:textColor="@color/black" />
     <TextView
@@ -56,7 +55,6 @@
 
         android:layout_centerHorizontal="true"
         android:layout_marginTop="340dp"
-        android:text="Pronounce"
         android:textAllCaps="true"
         android:textColor="@color/black"
         android:background="@drawable/button_background"/>
