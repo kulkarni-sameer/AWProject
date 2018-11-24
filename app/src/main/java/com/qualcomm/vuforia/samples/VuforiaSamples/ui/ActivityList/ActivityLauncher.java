@@ -1,10 +1,3 @@
-/*===============================================================================
-Copyright (c) 2012-2014 Qualcomm Connected Experiences, Inc. All Rights Reserved.
-
-Vuforia is a trademark of QUALCOMM Incorporated, registered in the United States
-and other countries. Trademarks of QUALCOMM Incorporated are used with permission.
-===============================================================================*/
-
 package com.qualcomm.vuforia.samples.VuforiaSamples.ui.ActivityList;
 
 
@@ -16,6 +9,7 @@ import android.view.View.OnClickListener;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.RadioButton;
 import android.widget.TextView;
 
 import com.qualcomm.vuforia.samples.VuforiaSamples.R;
@@ -26,6 +20,10 @@ public class ActivityLauncher extends Activity implements OnClickListener
 
     private Button mStartButton;
     private TextView mAboutTextTitle;
+    private String mClassToLaunch;
+    private String mClassToLaunchPackage;
+    private String username;
+    private String ids;
 
     @Override
     public void onCreate(Bundle savedInstanceState)
@@ -40,9 +38,38 @@ public class ActivityLauncher extends Activity implements OnClickListener
         mStartButton = (Button) findViewById(R.id.button_submit);
         mStartButton.setOnClickListener(this);
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
+        Bundle extras = getIntent().getExtras();
+        System.out.println("***********************");
+        System.out.println(extras.getString("par1"));
+        System.out.println(extras.getString("par2"));
+        System.out.println(extras.getInt("par3"));
+        System.out.println("***********************");
+        System.out.println("Goes to Text Reco.java");
+        mClassToLaunchPackage = "com.qualcomm.vuforia.samples.VuforiaSamples";
+         mClassToLaunch = "com.qualcomm.vuforia.samples.VuforiaSamples.app.TextRecognition.TextReco";
+        ids = extras.getString("Selected_Level");
+        username = extras.getString("Username");
+
     }
 
+    private void startARActivity()
+    {
+        Intent i = new Intent();
+        i.setClassName(mClassToLaunchPackage, mClassToLaunch);
+//        int radiID=mSelectedRadioButton.getCheckedRadioButtonId();
+//        mselectedRadioButton=(RadioButton) findViewById(ids);
+//        System.out.println("ID...."+ids);
+//        System.out.println("Selected Radio Button : ....."+mselectedRadioButton.getText());
+        String content = username;
+        i.putExtra("Username",content);
+        i.putExtra("Selected_Level",ids);
+        i.putExtra("par1",mClassToLaunchPackage);
+        i.putExtra("par2",mClassToLaunch);
+        //i.putExtra("SelectedRadioButton", "mSelected");
+        System.out.println("Goes to Text Reco.java");
 
+        startActivity(i);
+    }
 
     @Override
     public void onClick(View v)
@@ -50,11 +77,13 @@ public class ActivityLauncher extends Activity implements OnClickListener
         switch (v.getId())
         {
             case R.id.button_submit:
-                Intent intent = new Intent(this, AboutScreen.class);
-                intent.putExtra("ABOUT_TEXT_TITLE", "Text Recognition Application");
-                intent.putExtra("ACTIVITY_TO_LAUNCH",
-                        "app.TextRecognition.TextReco");
-                startActivity(intent);
+//                Intent intent = new Intent(this, AboutScreen.class);
+//                intent.putExtra("ABOUT_TEXT_TITLE", "Text Recognition Application");
+//                intent.putExtra("ACTIVITY_TO_LAUNCH",
+//                        "app.TextRecognition.TextReco");
+//                startActivity(intent);
+                startARActivity();
+                break;
         }
     }
 

@@ -62,8 +62,7 @@ public class AboutScreen extends Activity implements OnClickListener
         Bundle extras = getIntent().getExtras();
         //String webText = extras.getString("ABOUT_TEXT");
         mClassToLaunchPackage = getPackageName();
-        mClassToLaunch = mClassToLaunchPackage + "."
-            + extras.getString("ACTIVITY_TO_LAUNCH");
+        mClassToLaunch = "app.TextRecognition.TextReco";
         
       //  mAboutWebText = (WebView) findViewById(R.id.about_html_text);
         
@@ -78,7 +77,7 @@ public class AboutScreen extends Activity implements OnClickListener
         mStartButton.setOnClickListener(this);
         //System.out.println("UserName Field:...."+mUserNameText.getText().toString());
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
-        mAboutTextTitle.setText(extras.getString("ABOUT_TEXT_TITLE"));
+      //  mAboutTextTitle.setText(extras.getString("ABOUT_TEXT_TITLE"));
 
         System.out.println("End of ON Create AboutScreen.java----");
     }
@@ -96,6 +95,8 @@ public class AboutScreen extends Activity implements OnClickListener
         String content = mUserNameText.getText().toString();
         i.putExtra("Username",content);
         i.putExtra("Selected_Level",mselectedRadioButton.getText().toString());
+        i.putExtra("par1",mClassToLaunchPackage);
+        i.putExtra("par2",mClassToLaunch);
         //i.putExtra("SelectedRadioButton", "mSelected");
         System.out.println("Goes to Text Reco.java");
 
@@ -110,17 +111,22 @@ public class AboutScreen extends Activity implements OnClickListener
         switch (v.getId())
         {
             case R.id.button_submit:
-//                if(mUserNameText == null){
-//                    Toast.makeText(getApplicationContext(), "Please enter your username", Toast.LENGTH_SHORT).show();
-//                    return;
-//                }
-//                if(mselectedRadioButton == null){
-//                    Toast.makeText(getApplicationContext(), "Please select your preferred language", Toast.LENGTH_SHORT).show();
-//                    return;
-//                }
 
-                startARActivity();
-                break;
+                Intent intent = new Intent(AboutScreen.this,
+                        ActivityLauncher.class);
+                int radioID=mSelectedRadioButton.getCheckedRadioButtonId();
+                mselectedRadioButton=(RadioButton) findViewById(radioID);
+                System.out.println("ID...."+radioID);
+                System.out.println("Selected Radio Button : ....."+mselectedRadioButton.getText());
+                String content = mUserNameText.getText().toString();
+                intent.putExtra("Username",content);
+                intent.putExtra("Selected_Level",mselectedRadioButton.getText().toString());
+                intent.putExtra("par1",mClassToLaunchPackage);
+                intent.putExtra("par2",mClassToLaunch);
+                intent.putExtra("par3",mSelectedRadioButton.getCheckedRadioButtonId());
+                //i.putExtra("SelectedRadioButton", "mSelected");
+                System.out.println("Goes to Text Reco.java");
+                startActivity(intent);
         }
     }
     
