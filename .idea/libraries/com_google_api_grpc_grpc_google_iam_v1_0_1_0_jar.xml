@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.api.grpc:grpc-google-iam-v1:0.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/grpc-google-iam-v1/0.1.0/e31ee2a12fd7798bd4bec7bf584057a33b871b2e/grpc-google-iam-v1-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

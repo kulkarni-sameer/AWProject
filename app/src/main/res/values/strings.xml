@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Augmented Reality App</string>
-    <string name="app_description">AR Spanish Translation Application</string>
+    <string name="app_name">Augmented Reality Translation App</string>
+    <string name="app_description">AR Translation Application</string>
     <string name="button_start">Start</string>
     <string name="button_submit">Submit</string>
     <string name="button_enter">Enter</string>
@@ -13,9 +13,14 @@
     <string name="radiobuttonGerman">German</string>
     <string name="activities_list_title_string">Vuforia Samples</string>
     <string name="activities_list_empty">No activities</string>
-    <string name="userDetailsLabel">User Details...</string>
+    <string name="userDetailsLabel">User Details Page</string>
     <string name="userNameText">Enter Your Name</string>
-
+    <string name="instructions">Instructions</string>
+    <string-array name="steps">
+        <item>1.Point your phone camera on the word you want to know the translation of</item>
+        <item>2.This application will translate an the detected word in the language you selected while filling in the form</item>
+        <item>3.Depending on the language,you will get the page translated</item>
+    </string-array>
     <string name="button_OK">OK</string>
     
     <string name="UPDATE_ERROR_AUTHORIZATION_FAILED_TITLE">Authorization Error</string>

@@ -6,13 +6,20 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.ListView;
 import android.widget.RadioButton;
 import android.widget.TextView;
 
 import com.qualcomm.vuforia.samples.VuforiaSamples.R;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 
 public class ActivityLauncher extends Activity implements OnClickListener
@@ -24,7 +31,12 @@ public class ActivityLauncher extends Activity implements OnClickListener
     private String mClassToLaunchPackage;
     private String username;
     private String ids;
-
+    private ListView mStepsListView;
+    private String[] steps=new String[]{
+           "Step 1: Point your phone camera on the word to translate it in your chosen language.",
+           "Step 2: After detection of the word,the application will take to a translated page .",
+           "Step 3: The translated page will have translated buttons too."
+   };
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
@@ -35,9 +47,34 @@ public class ActivityLauncher extends Activity implements OnClickListener
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         setContentView(R.layout.initial_screen);
+
+        //setListAdapter(new ArrayAdapter<String>(this, R.layout.initial_screen, steps));
+
+        //ListView lv = getListView();
+        //lv.setTextFilterEnabled(true);
         mStartButton = (Button) findViewById(R.id.button_submit);
         mStartButton.setOnClickListener(this);
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
+        mStepsListView=(ListView) findViewById(R.id.steps);
+        List<String> stepsList=new ArrayList<>(Arrays.asList(steps));
+        ArrayAdapter<String> arrayAdapter=new ArrayAdapter<String>(this,R.layout.initial_screen_text_view,stepsList){
+            @Override
+            public View getView (int position, View convertView, ViewGroup parent){
+                View view = super.getView(position,convertView,parent);
+
+                // Get the Layout Parameters for ListView Current Item View
+                ViewGroup.LayoutParams params = view.getLayoutParams();
+
+                // Set the height of the Item View
+                params.height = 200;  // earlier was 100
+                view.setLayoutParams(params);
+
+        return view;
+            }
+
+        };
+        mStepsListView.setAdapter(arrayAdapter);
+        mStepsListView.setDividerHeight(10);
         Bundle extras = getIntent().getExtras();
         System.out.println("***********************");
         System.out.println(extras.getString("par1"));
@@ -49,6 +86,8 @@ public class ActivityLauncher extends Activity implements OnClickListener
          mClassToLaunch = "com.qualcomm.vuforia.samples.VuforiaSamples.app.TextRecognition.TextReco";
         ids = extras.getString("Selected_Level");
         username = extras.getString("Username");
+       // mWelcomeTitle.setText("Bienvenue, " +username +"!");
+        mAboutTextTitle.setText("Instructions for using the Application, "+ username+"!");
 
     }
 

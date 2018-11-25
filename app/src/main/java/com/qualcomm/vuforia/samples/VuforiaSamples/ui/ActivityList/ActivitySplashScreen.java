@@ -23,7 +23,7 @@ import com.qualcomm.vuforia.samples.VuforiaSamples.R;
 public class ActivitySplashScreen extends Activity
 {
     
-    private static long SPLASH_MILLIS = 450;
+    private static long SPLASH_MILLIS = 900;
     
     
     @Override
