@@ -62,7 +62,7 @@ public class ItalianActivity extends Activity implements View.OnClickListener
         mTranslateButton.setText("Tradurre (Translate)");
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
-        mPronunciateButton.setText("Pronunciare (Pronounce)");
+        mPronunciateButton.setText(" Pronunciare (Pronounce) ");
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Italian Translation");
         Bundle extras = getIntent().getExtras();
@@ -150,7 +150,7 @@ public class ItalianActivity extends Activity implements View.OnClickListener
         //mTTS.speak(text,TextToSpeech.QUEUE_FLUSH,null);
         System.out.println("Only the word " + detected_word);
         //speak the word detected
-        mTTS.speak(detected_word,TextToSpeech.QUEUE_FLUSH,null );
+        mTTS.speak("The detected word is ..." +detected_word +"...Its Italian translation is... " +translated_word,TextToSpeech.QUEUE_FLUSH,null );
         //QueueFlush : current text gets cancelled to speak the new one
 
     }
