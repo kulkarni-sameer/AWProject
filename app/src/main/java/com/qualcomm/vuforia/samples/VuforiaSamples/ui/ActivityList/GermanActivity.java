@@ -149,7 +149,7 @@ public class GermanActivity extends Activity implements View.OnClickListener
         //mTTS.speak(text,TextToSpeech.QUEUE_FLUSH,null);
         System.out.println("Only the word " + detected_word);
         //speak the word detected
-        mTTS.speak(translated_word,TextToSpeech.QUEUE_FLUSH,null );
+        mTTS.speak(detected_word,TextToSpeech.QUEUE_FLUSH,null );
         //QueueFlush : current text gets cancelled to speak the new one
 
     }
