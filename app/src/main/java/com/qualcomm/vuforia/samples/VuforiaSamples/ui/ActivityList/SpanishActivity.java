@@ -59,10 +59,10 @@ public class SpanishActivity extends Activity implements View.OnClickListener
         setContentView(R.layout.beginner_activity);
         mTranslateButton=(Button) findViewById(R.id.translate) ;
         mTranslateButton.setOnClickListener(this);
-        mTranslateButton.setText("Traducir");
+        mTranslateButton.setText("Traducir (Translate)");
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
-        mPronunciateButton.setText("Pronunciar");
+        mPronunciateButton.setText("Pronunciar (Pronounce)");
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Spanish Translation");
         Bundle extras = getIntent().getExtras();
@@ -132,7 +132,7 @@ public class SpanishActivity extends Activity implements View.OnClickListener
                                  //       Toast.LENGTH_LONG).show();
                                 translated_word = translation.getTranslatedText();
                                 System.out.println(translation.getTranslatedText());
-                                mDetectedWord.setText("La palabra traducida es: " +translated_word);
+                                mDetectedWord.setText("La palabra traducida es (The translated word is) : " +translated_word);
                                 // }
                             }
                         });

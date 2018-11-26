@@ -59,10 +59,10 @@ public class FrenchActivity extends Activity implements View.OnClickListener
         setContentView(R.layout.beginner_activity);
         mTranslateButton=(Button) findViewById(R.id.translate) ;
         mTranslateButton.setOnClickListener(this);
-        mTranslateButton.setText("Traduire");
+        mTranslateButton.setText("Traduire (Translate)");
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
-        mPronunciateButton.setText("Prononcer");
+        mPronunciateButton.setText("Prononcer (Pronounce)");
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("French Translation");
         Bundle extras = getIntent().getExtras();
@@ -132,7 +132,7 @@ public class FrenchActivity extends Activity implements View.OnClickListener
                                 //       Toast.LENGTH_LONG).show();
                                 translated_word = translation.getTranslatedText();
                                 System.out.println(translation.getTranslatedText());
-                                mDetectedWord.setText("Le mot traduit est: " +translated_word);
+                                mDetectedWord.setText("Le mot traduit est (The translated word is) : " +translated_word);
                                 // }
                             }
                         });
