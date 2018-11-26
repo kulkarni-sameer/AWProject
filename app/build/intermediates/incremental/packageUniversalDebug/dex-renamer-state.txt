@@ -1,7 +1,0 @@
-#Sun Nov 25 03:27:44 MST 2018
-base.0=C\:\\Users\\AMohanty\\Documents\\GitHub\\AWProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2ad7327333bed2d4e3efb769a808f004e80a0f50
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\AMohanty\\Documents\\GitHub\\AWProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_46d306ddf62578251c339e8dcba4c2eb09227daf\\classes.dex
-base.1=C\:\\Users\\AMohanty\\Documents\\GitHub\\AWProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_46d306ddf62578251c339e8dcba4c2eb09227daf
-file.0=C\:\\Users\\AMohanty\\Documents\\GitHub\\AWProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2ad7327333bed2d4e3efb769a808f004e80a0f50\\classes.dex

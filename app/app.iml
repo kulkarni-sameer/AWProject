@@ -103,32 +103,32 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="__local_jars__:C.\Users\AMohanty\Documents\GitHub\AWProject\app\src\main\java\Vuforia.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.cloud:google-cloud-core:0.5.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.jme3:jme3-terrain:3.0.10@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.guava:guava:19.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="org.codehaus.jackson:jackson-core-asl:1.9.11@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.jme3:jme3-core:3.0.10@jar" level="project" />
-    <orderEntry type="library" exported="" name="javax.inject:javax.inject:1@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.api:gax:0.0.21@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.auto.value:auto-value:1.2@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.cloud:google-cloud-translate:0.5.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.code.findbugs:jsr305:3.0.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.jme3:jme3-openal-soft-android:3.0.10@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.http-client:google-http-client:1.22.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.apis:google-api-services-translate:v2-rev47-1.22.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.api.grpc:grpc-google-common-protos:0.1.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.jme3:jme3-android:3.0.10@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.oauth-client:google-oauth-client:1.22.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.http-client:google-http-client-jackson2:1.22.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.api.grpc:grpc-google-iam-v1:0.1.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.auth:google-auth-library-oauth2-http:0.4.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="aopalliance:aopalliance:1.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="joda-time:joda-time:2.9.2@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.http-client:google-http-client-jackson:1.21.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.inject:guice:4.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.auth:google-auth-library-credentials:0.4.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.api-client:google-api-client:1.22.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.fasterxml.jackson.core:jackson-core:2.1.3@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-android:3.0.10@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: aopalliance:aopalliance:1.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.1.3@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.inject:guice:4.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.api.grpc:grpc-google-common-protos:0.1.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.api:gax:0.0.21@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.codehaus.jackson:jackson-core-asl:1.9.11@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.auto.value:auto-value:1.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.code.findbugs:jsr305:3.0.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.apis:google-api-services-translate:v2-rev47-1.22.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.http-client:google-http-client:1.22.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.api.grpc:grpc-google-iam-v1:0.1.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.cloud:google-cloud-core:0.5.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/sameer/nov261/AWProject/app/src/main/java/Vuforia.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.http-client:google-http-client-jackson2:1.22.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.cloud:google-cloud-translate:0.5.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.inject:javax.inject:1@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.guava:guava:19.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.http-client:google-http-client-jackson:1.21.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-openal-soft-android:3.0.10@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.auth:google-auth-library-oauth2-http:0.4.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.auth:google-auth-library-credentials:0.4.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: joda-time:joda-time:2.9.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-terrain:3.0.10@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.api-client:google-api-client:1.22.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.oauth-client:google-oauth-client:1.22.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.jme3:jme3-core:3.0.10@jar" level="project" />
   </component>
 </module>
