@@ -62,7 +62,7 @@ public class GermanActivity extends Activity implements View.OnClickListener
         mTranslateButton.setText("Übersetzen (Translate)");
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
-        mPronunciateButton.setText("Aussprechen (Pronounce)");
+        mPronunciateButton.setText(" Aussprechen (Pronounce) ");
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("German Translation");
         Bundle extras = getIntent().getExtras();

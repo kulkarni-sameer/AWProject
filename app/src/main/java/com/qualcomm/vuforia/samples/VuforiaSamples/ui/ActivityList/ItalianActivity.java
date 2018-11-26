@@ -62,7 +62,7 @@ public class ItalianActivity extends Activity implements View.OnClickListener
         mTranslateButton.setText("Tradurre (Translate)");
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
-        mPronunciateButton.setText("Pronunciare (Pronounce)");
+        mPronunciateButton.setText(" Pronunciare (Pronounce) ");
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Italian Translation");
         Bundle extras = getIntent().getExtras();
