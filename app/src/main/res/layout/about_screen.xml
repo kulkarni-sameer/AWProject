@@ -10,7 +10,7 @@
         android:id="@+id/about_text_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/skyblue"
+        android:background="#20b2aa"
         android:gravity="center"
         android:layout_alignParentTop="true"
         android:fontFamily="sans-serif"

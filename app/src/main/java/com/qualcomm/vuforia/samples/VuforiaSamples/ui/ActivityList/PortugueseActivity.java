@@ -81,7 +81,7 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
             @Override
             public void onInit(int i) {
                 if(i==TextToSpeech.SUCCESS){   //if inistializatio is successful
-                    int lang=mTTS.setLanguage(Locale.US);  //Language setting up
+                    int lang=mTTS.setLanguage(new Locale("pt_PT"));  //Language setting up
                     if(lang==TextToSpeech.LANG_MISSING_DATA
                             || lang==TextToSpeech.LANG_NOT_SUPPORTED){
                         Log.e("Text_Speech","Language Not Supported");

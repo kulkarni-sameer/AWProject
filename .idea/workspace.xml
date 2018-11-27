@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d3ee0ec-e20d-4938-b79d-04fcc8e055e7" name="Default" comment="">
+    <list default="true" id="2b6894aa-88de-4512-8f4c-ff7f50dff345" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
@@ -18,306 +18,19 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/__local_jars___C__Users_AMohanty_Documents_GitHub_AWProject_app_src_main_java_Vuforia_jar_unspecified_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/aopalliance_aopalliance_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_fasterxml_jackson_core_jackson_core_2_1_3_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_api_client_google_api_client_1_22_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_api_gax_0_0_21_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_api_grpc_grpc_google_common_protos_0_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_api_grpc_grpc_google_iam_v1_0_1_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_apis_google_api_services_translate_v2_rev47_1_22_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_auth_google_auth_library_credentials_0_4_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_auth_google_auth_library_oauth2_http_0_4_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_auto_value_auto_value_1_2_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_cloud_google_cloud_core_0_5_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_cloud_google_cloud_translate_0_5_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_code_findbugs_jsr305_3_0_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_guava_guava_19_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_http_client_google_http_client_1_22_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_http_client_google_http_client_jackson2_1_22_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_http_client_google_http_client_jackson_1_21_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_inject_guice_4_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_google_oauth_client_google_oauth_client_1_22_0_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_jme3_jme3_android_3_0_10_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_jme3_jme3_core_3_0_10_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_jme3_jme3_openal_soft_android_3_0_10_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/com_jme3_jme3_terrain_3_0_10_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_javax_inject_1_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/joda_time_joda_time_2_9_2_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_codehaus_jackson_jackson_core_asl_1_9_11_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars____Users_sameer_nov261_AWProject_app_src_main_java_Vuforia_jar_unspecified_jar.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/AdditionalWords.lst" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/AdditionalWords.lst" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/TR_about.html" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/TR_about.html" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/Vuforia-English-word.vwl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/Vuforia-English-word.vwl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xhdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xxhdpi-v4.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldpi-v4/values-ldpi-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/zip-cache/hXWMRdg6paQhNqlGJvWBb9Y29iw=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/zip-cache/xcCBoGaIMDj7knIuOI7+3o82Ntc=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesUniversalDebug/dex-renamer-state.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesUniversalDebug/file-input-save-data.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesUniversalDebug/zip-cache/uNsK6wMwbhLPxEmNUAHuKVL5858=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageUniversalDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageUniversalDebug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageUniversalDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageUniversalDebug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageUniversalDebug/zip-cache/hXWMRdg6paQhNqlGJvWBb9Y29iw=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageUniversalDebug/zip-cache/uNsK6wMwbhLPxEmNUAHuKVL5858=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageX86Debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageX86Debug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageX86Debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageX86Debug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageX86Debug/zip-cache/XrM26W0XAbVpzpnZ8Mtiv+jXwFA=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageX86Debug/zip-cache/hXWMRdg6paQhNqlGJvWBb9Y29iw=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_0/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_3/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_4/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_5/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_7/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_8/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_9/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/debug/armeabi-v7a/libVuforia.so" afterPath="$PROJECT_DIR$/app/build/intermediates/jniLibs/debug/armeabi-v7a/libVuforia.so" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_d038c9e8844af45819a75fe468b54a85a48a3f06.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/aopalliance-1.0_c045e7a190786ddca72749ff0f5a43521e4c70d0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/auto-value-1.2_357afaaebc88a995822acc3eb027964884515c40.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_7c09d55c2f38894009ad085ee8f9195a1f730281.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/gax-0.0.21_79384e4321fc45539eab051a776bf3a0182f2d97.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-client-1.22.0_ff5ad15fc58c177187f4ff41abeac38f1cde3d89.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-services-translate-v2-rev47-1.22.0_aa331a4698a95ca2471f10f5cd1e217a116217f7.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-auth-library-credentials-0.4.0_3fc28089537afc4cea43fc64f3c5f1d2a89143aa.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-auth-library-oauth2-http-0.4.0_8fbaf175c5c521f405c226e193067ec13f31ba33.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-cloud-core-0.5.0_062a253dee2140629922ebd62a7baef8b6321657.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-cloud-translate-0.5.0_0b9ff9a09732bb458e380413c330087cca37113f.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-1.22.0_697bac0e83c5f52ae79af3b6f90000bb45684265.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-jackson-1.21.0_598876a8c0ff81c59b46c7e8c5477de5c84ccdd4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.22.0_45f84d4b54afad06eb8658b005e513ad975384c2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.22.0_25638a4fd0527f128cc40d1c8533e75f1a456474.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/grpc-google-common-protos-0.1.0_929e103407f4a277f96e1b3f7eab2a6274586338.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/grpc-google-iam-v1-0.1.0_6be16937ddc0575274902b9f15f9f2e48593e83e.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/guava-19.0_808fc0f93a11bbf4a7d228ac190f533520373d85.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/guice-4.0_4f8ece9dfe99f6e00dc30f0dbdb43bebd1562632.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_e6a474139a2e58f009272ed91b7c074c0786b787.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.11_e785fd4cdcb4f506630da489d718d862965905ec.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/javax.inject-1_1fd90b18300a16188d43d98b59317deb8dae8c02.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-android-3.0.10_2daa4bf86edfd1569a0e6d22a9f3757c58b773ec.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-core-3.0.10_6885a54724ac6867425baa52c7a2c5f932f77ab4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-terrain-3.0.10_dbe24e2b1e8649913c31b66b6ce0d88696f147d2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/joda-time-2.9.2_6b32ef831223624909b092db8adf226463ff23e6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8ebe57c24c6e04b9fc2c88f6808c3a2c0e2b260c.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/button_background.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/button_background.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/beginner_activity.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/beginner_activity.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/initial_screen.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/initial_screen.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-armeabi-v7a-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-armeabi-v7a-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-universal-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-universal-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-x86-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-x86-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/aopalliance-1.0_c045e7a190786ddca72749ff0f5a43521e4c70d0/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/auto-value-1.2_357afaaebc88a995822acc3eb027964884515c40/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/gax-0.0.21_79384e4321fc45539eab051a776bf3a0182f2d97/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_ff5ad15fc58c177187f4ff41abeac38f1cde3d89/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-translate-v2-rev47-1.22.0_aa331a4698a95ca2471f10f5cd1e217a116217f7/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-auth-library-credentials-0.4.0_3fc28089537afc4cea43fc64f3c5f1d2a89143aa/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-auth-library-oauth2-http-0.4.0_8fbaf175c5c521f405c226e193067ec13f31ba33/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-cloud-core-0.5.0_062a253dee2140629922ebd62a7baef8b6321657/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-cloud-translate-0.5.0_0b9ff9a09732bb458e380413c330087cca37113f/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_697bac0e83c5f52ae79af3b6f90000bb45684265/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson-1.21.0_598876a8c0ff81c59b46c7e8c5477de5c84ccdd4/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_45f84d4b54afad06eb8658b005e513ad975384c2/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_25638a4fd0527f128cc40d1c8533e75f1a456474/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/grpc-google-common-protos-0.1.0_929e103407f4a277f96e1b3f7eab2a6274586338/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/grpc-google-iam-v1-0.1.0_6be16937ddc0575274902b9f15f9f2e48593e83e/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-19.0_808fc0f93a11bbf4a7d228ac190f533520373d85/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/guice-4.0_4f8ece9dfe99f6e00dc30f0dbdb43bebd1562632/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_e6a474139a2e58f009272ed91b7c074c0786b787/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-asl-1.9.11_e785fd4cdcb4f506630da489d718d862965905ec/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_1fd90b18300a16188d43d98b59317deb8dae8c02/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jme3-android-3.0.10_2daa4bf86edfd1569a0e6d22a9f3757c58b773ec/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jme3-core-3.0.10_6885a54724ac6867425baa52c7a2c5f932f77ab4/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jme3-terrain-3.0.10_dbe24e2b1e8649913c31b66b6ce0d88696f147d2/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.9.2_6b32ef831223624909b092db8adf226463ff23e6/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_8ebe57c24c6e04b9fc2c88f6808c3a2c0e2b260c/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46d306ddf62578251c339e8dcba4c2eb09227daf/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2ad7327333bed2d4e3efb769a808f004e80a0f50/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_d038c9e8844af45819a75fe468b54a85a48a3f06/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeShaders.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/LineShaders.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/LoadingDialogHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleMath.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleUtils.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/SampleApplication/utils/Texture.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$array.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$attr.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$color.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$dimen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$drawable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$id.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$layout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$string.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R$style.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/qualcomm/vuforia/samples/VuforiaSamples/R.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationControl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$InitVuforiaTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$LoadTrackerTask.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer$WordDesc.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuAnimator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$2.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-universal-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-x86-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/back.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/beginner_activity.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/beginner_activity.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -333,44 +46,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="initial_screen.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
+      <file leaf-file-name="ItalianActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="43" />
-              <folding>
-                <element signature="e#639#666#0" expanded="true" />
-                <element signature="e#728#747#0" expanded="true" />
-                <element signature="e#1248#1267#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_screen.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="46" />
+            <state relative-caret-position="-256">
+              <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camera_overlay.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
+      <file leaf-file-name="PortugueseActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="243">
+              <caret line="90" column="21" lean-forward="false" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpanishActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="83" column="69" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -382,71 +82,79 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="300">
+              <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_screen.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
-                <element signature="e#604#631#0" expanded="true" />
-                <element signature="e#657#676#0" expanded="true" />
+                <element signature="e#734#753#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FrenchActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java">
+      <file leaf-file-name="button_background.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="161" column="26" lean-forward="true" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
+            <state relative-caret-position="120">
+              <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GermanActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java">
+      <file leaf-file-name="ActivityLauncher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="151" column="20" lean-forward="true" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+            <state relative-caret-position="1920">
+              <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItalianActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java">
+      <file leaf-file-name="AboutScreen.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="152" column="20" lean-forward="false" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
+            <state relative-caret-position="630">
+              <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PortugueseActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java">
+      <file leaf-file-name="initial_screen.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="151" column="20" lean-forward="false" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+            <state relative-caret-position="720">
+              <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpanishActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="151" column="20" lean-forward="true" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
-              <folding />
-            </state>
+      <file leaf-file-name="splash_screen.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state relative-caret-position="180">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -2373,14 +2081,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/beginner_activity.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/beginner_activity.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java" />
       </list>
     </option>
   </component>
@@ -2405,9 +2115,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2436,7 +2145,7 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="samples" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
+              <item name="SampleApplication" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
@@ -2444,7 +2153,6 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="samples" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
@@ -2486,15 +2194,12 @@
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
-            <path>
-              <item name="AWProject" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2660,17 +2365,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d3ee0ec-e20d-4938-b79d-04fcc8e055e7" name="Default" comment="" />
-      <created>1543219276859</created>
+      <changelist id="2b6894aa-88de-4512-8f4c-ff7f50dff345" name="Default" comment="" />
+      <created>1543221180940</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543219276859</updated>
+      <updated>1543221180940</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2688,7 +2392,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2712,34 +2416,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-1546">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/back.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="172">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="1920">
+          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        <state relative-caret-position="630">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -2749,34 +2472,10 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding>
-            <element signature="e#639#666#0" expanded="true" />
-            <element signature="e#728#747#0" expanded="true" />
-            <element signature="e#1248#1267#0" expanded="true" />
+            <element signature="e#734#753#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2786,51 +2485,54 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-          <folding>
-            <element signature="e#604#631#0" expanded="true" />
-            <element signature="e#657#676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="161" column="26" lean-forward="true" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
+        <state relative-caret-position="300">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/initial_screen.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="151" column="20" lean-forward="true" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+        <state relative-caret-position="720">
+          <caret line="48" column="26" lean-forward="false" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="152" column="20" lean-forward="false" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="151" column="20" lean-forward="false" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+        <state relative-caret-position="-256">
+          <caret line="44" column="35" lean-forward="false" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="151" column="20" lean-forward="true" selection-start-line="151" selection-start-column="20" selection-end-line="151" selection-end-column="20" />
+        <state relative-caret-position="217">
+          <caret line="83" column="69" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="90" column="21" lean-forward="false" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,7 @@
+#Mon Nov 26 17:43:24 MST 2018
+base.0=/Users/sameer/nov262/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f115a9b94ad8b5cf7c7d7e96a1094d940ad5b32a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sameer/nov262/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81255f30f7740daaca5cd32b8af574a35fe99091/classes.dex
+base.1=/Users/sameer/nov262/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81255f30f7740daaca5cd32b8af574a35fe99091
+file.0=/Users/sameer/nov262/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f115a9b94ad8b5cf7c7d7e96a1094d940ad5b32a/classes.dex
