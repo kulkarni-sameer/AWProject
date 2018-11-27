@@ -68,15 +68,16 @@
         android:launchMode="singleTask"
         android:allowBackup="true"
         android:theme="@style/SampleAppsTheme"
+        android:icon="@drawable/ic_launcher"
         >
         
 
-         <!--
+
          android:icon="@drawable/icon"
-          NOTE: The values in 'android:configChanges' ensure that Android will 
-          not destroy and re-create the activity when the user flips the 
-          keyboard, changes the orientation of the device, or the actual or 
-          physical screen resolution changes, but calls the Activity's 
+          NOTE: The values in 'android:configChanges' ensure that Android will
+          not destroy and re-create the activity when the user flips the
+          keyboard, changes the orientation of the device, or the actual or
+          physical screen resolution changes, but calls the Activity's
           onConfigurationChanged() function instead.
 
           NOTE 2: In order to prevent automatic reactions to orientation
@@ -85,7 +86,7 @@
           orientation used by the application, either by setting the attribute
           'android:screenOrientation' or in code by calling
           Activity.setRequestedOrientation().
-        -->
+
         <!-- Splash Screen Activity -->
          <activity
             android:name=".ui.ActivityList.ActivitySplashScreen"
