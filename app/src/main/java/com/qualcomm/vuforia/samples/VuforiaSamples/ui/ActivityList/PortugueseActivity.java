@@ -29,6 +29,7 @@ import com.google.cloud.translate.Translate;
 import com.google.cloud.translate.TranslateOptions;
 import com.google.cloud.translate.Translation;
 
+import com.qualcomm.QCAR.QCAR;
 import com.qualcomm.vuforia.samples.VuforiaSamples.R;
 
 import java.util.Locale;
@@ -41,6 +42,7 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
     //private String mActivities[] = { "Beginner Words Recognition!!!"}
     private Button mTranslateButton;
     private Button mPronunciateButton;
+    private Button mArview;
     private TextView mAboutTextTitle;
     private TextView mWelcomeTitle;
     private TextView mDetectedWord;
@@ -63,6 +65,10 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
         mPronunciateButton=(Button) findViewById(R.id.pronunciation);
         mPronunciateButton.setOnClickListener(this);
         mPronunciateButton.setText(" Pronunciar (Pronounce) ");
+        mArview=(Button) findViewById(R.id.arview);
+        mArview.setOnClickListener(this);
+        mArview.setText("Ar View");
+
         mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
         mAboutTextTitle.setText("Portuguese Translation");
         Bundle extras = getIntent().getExtras();
@@ -106,6 +112,7 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
                 // mTranslateButton.setVisibility(View.GONE);
                 // startARActivity();
                 speak();
+                QCAR.deinit();
                 break;
 
             case R.id.translate:
@@ -139,6 +146,15 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
                         return null;
                     }
                 }.execute();
+                QCAR.deinit();
+                break;
+
+            case R.id.arview:
+                // mTranslateButton.setVisibility(View.GONE);
+                // startARActivity();
+                QCAR.deinit();
+                startARActivity();
+                break;
         }
         System.out.println("In on Click beginner activity.java");
 
@@ -152,6 +168,23 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
         mTTS.speak("The detected word is ..." +detected_word +"...Its Portuguese translation is... " +translated_word,TextToSpeech.QUEUE_FLUSH,null );
         //QueueFlush : current text gets cancelled to speak the new one
 
+    }
+
+    public void startARActivity()
+    {
+        Intent i = new Intent();
+        String mClassToLaunchPackage = "com.qualcomm.vuforia.samples.VuforiaSamples";
+        String mClassToLaunch = "com.qualcomm.vuforia.samples.VuforiaSamples.app.TextRecognition.ImageTargets";
+        i.setClassName(mClassToLaunchPackage, mClassToLaunch);
+//        int radiID=mSelectedRadioButton.getCheckedRadioButtonId();
+//        mselectedRadioButton=(RadioButton) findViewById(ids);
+//        System.out.println("ID...."+ids);
+//        System.out.println("Selected Radio Button : ....."+mselectedRadioButton.getText());
+
+        i.putExtra("detectedword", detected_word);
+        System.out.println("Goes to Text Reco.java");
+
+        startActivity(i);
     }
 
     @Override

@@ -1,0 +1,7 @@
+#Fri Nov 30 02:43:11 MST 2018
+base.0=/Users/sameer/29nov/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sameer/29nov/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+base.1=/Users/sameer/29nov/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+file.0=/Users/sameer/29nov/AWProject/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex

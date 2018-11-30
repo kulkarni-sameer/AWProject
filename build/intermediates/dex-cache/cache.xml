@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sameer/29nov/AWProject/app/src/main/java/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="/Users/sameer/29nov/AWProject/app/build/intermediates/pre-dexed/debug/Vuforia_84f45b1b4d6c3baaabc8778e1a3f47a894939e67.jar" />
+    </item>
+
+</items>
