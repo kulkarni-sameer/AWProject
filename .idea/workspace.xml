@@ -10,31 +10,220 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4dd0065-2297-4c54-8377-c4737cfe8677" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/annotation-processors.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars____Users_sameer_nov262_AWProject_app_src_main_java_Vuforia_jar_unspecified_jar.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/beginner_activity.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/beginner_activity.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Buildings.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ImageTargetRenderer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ImageTargets.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/StonesAndChips.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/StonesAndChips.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/AdditionalWords.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/Buildings.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/TR_about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextReco/Vuforia-English-word.vwl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextureBowlAndSpoon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextureTeapotBlue.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextureTeapotBrass.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/TextureTeapotRed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/apple.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/multidex/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationControl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/BowlAndSpoonObject$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/BowlAndSpoonObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeShaders.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/LineShaders.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/LoadingDialogHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleMath.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleUtils.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Texture.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/BuildConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$array.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$attr.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$color.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$dimen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$drawable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$id.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$layout.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$string.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$style.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/ImageTargetRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/ImageTargetRenderer1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/ImageTargets$1$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/ImageTargets$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/ImageTargets$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/ImageTargets$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/ImageTargets.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer$WordDesc.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationControl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$InitVuforiaTask.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$LoadTrackerTask.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/FrenchActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/GermanActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ItalianActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/PortugueseActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/SpanishActivity.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuAnimator.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuInterface.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/dex-renamer-state.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/file-input-save-data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/zip-cache/2htuxTk03p+6qfQGFsiEyrrGQuk=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageArmeabi-v7aDebug/zip-cache/TaTw3r6J+cZRkiEFB+wctPUxNl0=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/jniLibs/debug/armeabi-v7a/libVuforia.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/multi-dex/debug/componentClasses.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/multi-dex/debug/components.flags" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/multi-dex/debug/maindexlist.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_84f45b1b4d6c3baaabc8778e1a3f47a894939e67.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/aopalliance-1.0_fbcd83ac474e4a40d69c79fe21bdee0b2e97c2f9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/auto-value-1.2_0372402cc85888d2b62da49178b87c5e5b59abb6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_1e156b83f2720384d1f911d2d148171396482f61.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/gax-0.0.21_44b0761810265a43b55bcdab059a707eb6dc1c80.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-client-1.22.0_15a6b5b4701514b5f5f0f0783a3ce15c8fb5e173.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-api-services-translate-v2-rev47-1.22.0_d1891f10beb5fc1a8ffa24eab9f8bc2e8497dd37.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-auth-library-credentials-0.4.0_e5ce1ef4c7dbcfe21f5d9891210498a5c20f899c.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-auth-library-oauth2-http-0.4.0_2d391a033bb86cd29379d4f6d6dd2a08da9f79a9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-cloud-core-0.5.0_39a50fea7e236e892e9b6e73b4d6926885351e7d.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-cloud-translate-0.5.0_d588e016a6a3f1c5846a47362e865fb2eb7b341d.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-1.22.0_ed591739adc894bb74382905c4917abfbb680443.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-jackson-1.21.0_de7c643c77082ba01b92b18746d429ac83c2f696.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.22.0_d546d85565187e40c7f84630ac1e01b79217a2c2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.22.0_fa9c76c879b7b12c2a95cd85889b22a0777c1c66.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/grpc-google-common-protos-0.1.0_baf423be25cc3e4688f1fbd74bc2904fd54fc477.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/grpc-google-iam-v1-0.1.0_6fb7bf448bcb82c2a7c4d9c79a53f33921b93748.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/guava-19.0_5efe6a21ebfe0d122753c3f081e8c6dbc1c24fb5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/guice-4.0_dae6aab03bb706c4036adee55e4664c6150e38c4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_fd6eb8870442728a85cb12ba050b5aa53cc71dea.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.11_7a925f4011d4bac0daf6fb5ac6526ee4e029f0c6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/javax.inject-1_a4bbe449873010ff9efe7b1cb0eb7550145ed184.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-android-3.0.10_6320ffd348e37fba4e422916c60f7e10a50c495b.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-core-3.0.10_f9537642671c0c41c6658a0c6e933fd573896741.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-terrain-3.0.10_8cddd8119d8694d144aca73774e8f76247d4ff36.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/joda-time-2.9.2_9cf68576315a4c11f6c90a8c10e6c11e804a7574.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_f7d03da043048231f269f8d8ad8ff3e041ea924e.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-armeabi-v7a-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-armeabi-v7a-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-universal-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-universal-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-x86-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-x86-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/folders/2/1f/main/META-INF/services/com.fasterxml.jackson.core.JsonFactory" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/folders/2/1f/main/META-INF/services/javax.annotation.processing.Processor" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libVuforia.so" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-armeabi-v7a-debug.apk" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-22-46-15-148.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-22-46-21-851.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-22-47-06-817.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-22-49-24-381.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-22-53-48-247.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-22-58-21-209.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-14-07-236.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-16-15-567.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-20-38-990.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-21-54-635.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-29-54-979.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-31-38-434.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-35-10-343.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-37-11-406.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-42-54-684.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-45-15-547.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-29-23-55-35-483.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-00-08-469.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-04-11-325.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-04-57-930.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-28-18-416.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-42-54-007.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-43-12-624.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-43-19-056.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-45-16-117.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-45-20-336.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-45-28-791.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-49-17-036.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-00-53-13-022.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-10-15-853.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-17-05-518.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-21-14-086.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-32-54-492.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-39-15-369.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-42-14-465.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-47-00-912.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-50-03-092.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-53-20-043.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-01-57-03-290.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-02-04-49-224.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-02-10-40-035.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-02-20-24-260.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-02-23-09-813.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-02-25-21-993.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-02-35-23-872.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-11-30-02-42-32-994.rawproto" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -2516,7 +2705,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2533,7 +2721,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />

@@ -56,12 +56,12 @@
         "source": "/Users/sameer/29nov/AWProject/app/src/main/res/drawable/bg00.png"
     },
     {
-        "merged": "/Users/sameer/29nov/AWProject/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/Users/sameer/29nov/AWProject/app/src/main/res/drawable/logo.png"
-    },
-    {
         "merged": "/Users/sameer/29nov/AWProject/app/build/intermediates/res/merged/debug/drawable/button_background.xml",
         "source": "/Users/sameer/29nov/AWProject/app/src/main/res/drawable/button_background.xml"
+    },
+    {
+        "merged": "/Users/sameer/29nov/AWProject/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/Users/sameer/29nov/AWProject/app/src/main/res/drawable/logo.png"
     },
     {
         "merged": "/Users/sameer/29nov/AWProject/app/build/intermediates/res/merged/debug/drawable/icon_03.png",
