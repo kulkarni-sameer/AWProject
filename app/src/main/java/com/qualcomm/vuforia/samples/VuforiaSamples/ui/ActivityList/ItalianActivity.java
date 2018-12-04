@@ -152,8 +152,6 @@ public class ItalianActivity extends Activity implements View.OnClickListener
                 break;
 
             case R.id.arview:
-                // mTranslateButton.setVisibility(View.GONE);
-                // startARActivity();
                 QCAR.deinit();
                 startARActivity();
                 break;
