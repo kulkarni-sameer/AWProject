@@ -20,12 +20,15 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
 import android.view.GestureDetector;
+import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;
+import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.RelativeLayout;
 import android.widget.Switch;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.qualcomm.vuforia.CameraDevice;
@@ -84,7 +87,11 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
     private boolean mExtendedTracking = false;
     
     private View mFlashOptionView;
-    
+
+    private TextView mTextView;
+    private Button btn;
+
+
     private RelativeLayout mUILayout;
     
     private SampleAppMenu mSampleAppMenu;
@@ -300,7 +307,7 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
         int depthSize = 16;
         int stencilSize = 0;
         boolean translucent = Vuforia.requiresAlpha();
-        
+
         mGlView = new SampleApplicationGLView(this);
         mGlView.init(translucent, depthSize, stencilSize);
 
@@ -318,6 +325,22 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
         }
 //        mRenderer.setTextures(mTextures);
 //        mGlView.setRenderer(mRenderer);
+
+        mTextView = new TextView(this);
+        btn= new Button(this);
+        mTextView.setText("Open User Model \n"  +
+                "User: Sameer \n" +
+                "User level: 1 (Beginner) \n" +
+                "Number of words scanned: 2\n" +
+                "Number of translations : 1 \n" +
+                "Number of pronunciations : 1 \n" );
+        mTextView.setVisibility(View.VISIBLE);
+        mTextView.setTextColor(getResources().getColor(R.color.white));
+        mTextView.setGravity(Gravity.BOTTOM | Gravity.CENTER);
+        btn.setVisibility(View.VISIBLE);
+        btn.setText("Show scanned words");
+        addContentView(mTextView, new LayoutParams(LayoutParams.MATCH_PARENT,
+                LayoutParams.MATCH_PARENT));
         
     }
     
@@ -442,6 +465,10 @@ public class ImageTargets extends Activity implements SampleApplicationControl,
             
             // Sets the UILayout to be drawn in front of the camera
             mUILayout.bringToFront();
+
+            mTextView.bringToFront();
+
+            btn.bringToFront();
             
             // Sets the layout background to transparent
             mUILayout.setBackgroundColor(Color.TRANSPARENT);
