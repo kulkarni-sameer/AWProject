@@ -115,7 +115,7 @@ public class ImageTargetRenderer implements GLSurfaceView.Renderer
         // Call Vuforia function to handle render surface size changes:
         vuforiaAppSession.onSurfaceChanged(width, height);
     }
-    
+
     
     // Function for initializing the renderer.
     private void initRendering()
@@ -182,7 +182,7 @@ public class ImageTargetRenderer implements GLSurfaceView.Renderer
         mRenderer.drawVideoBackground();
         
         GLES20.glEnable(GLES20.GL_DEPTH_TEST);
-        
+
         // handle face culling, we need to detect if we are using reflection
         // to determine the direction of the culling
         GLES20.glEnable(GLES20.GL_CULL_FACE);
@@ -237,7 +237,7 @@ public class ImageTargetRenderer implements GLSurfaceView.Renderer
                     false, 0, mTeapot.getNormals());
                 GLES20.glVertexAttribPointer(textureCoordHandle, 2,
                     GLES20.GL_FLOAT, false, 0, mTeapot.getTexCoords());
-                
+
                 GLES20.glEnableVertexAttribArray(vertexHandle);
                 GLES20.glEnableVertexAttribArray(normalHandle);
                 GLES20.glEnableVertexAttribArray(textureCoordHandle);
