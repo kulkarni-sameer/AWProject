@@ -150,11 +150,9 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
                 break;
 
             case R.id.arview:
-                // mTranslateButton.setVisibility(View.GONE);
-                // startARActivity();
-                QCAR.deinit();
-                startARActivity();
-                break;
+                 QCAR.deinit();
+                 startARActivity();
+                 break;
         }
         System.out.println("In on Click beginner activity.java");
 
@@ -164,7 +162,6 @@ public class PortugueseActivity extends Activity implements View.OnClickListener
         // String text=mDetectedWord.getText().toString();
         //mTTS.speak(text,TextToSpeech.QUEUE_FLUSH,null);
         System.out.println("Only the word " + detected_word);
-        //speak the word detected
         mTTS.speak("The detected word is ..." +detected_word +"...Its Portuguese translation is... " +translated_word,TextToSpeech.QUEUE_FLUSH,null );
         //QueueFlush : current text gets cancelled to speak the new one
 
